@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <!-- 轨迹纠偏按钮 -->
+
+    <include layout="@layout/head_style" />
+
+    <LinearLayout
+        android:id="@+id/top_button"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/grasp_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="轨迹偏纠" />
+        <Button
+            android:onClick="quit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="退出" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/top_button" >
+
+        <!-- 地图控件 -->
+
+        <com.amap.api.maps.MapView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/map"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </com.amap.api.maps.MapView>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:orientation="vertical"
+            >
+
+            <!-- assets 轨迹选择 -->
+
+            <Spinner
+                android:id="@+id/record_choose"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <!-- 轨迹纠偏坐标系选择 高德 | GPS | 百度 -->
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_white"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_style" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorLine" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/menu_height_40"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/register_activity_input"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="25dp"
+            android:layout_marginStart="25dp"
+            android:gravity="center"
+            android:text="@string/phone_num"
+            android:textColor="@color/colorText_gray_2"
+            android:textSize="@dimen/TextSize_14"
+
+            />
+
+        <EditText
+            android:text="15168212330"
+            android:id="@+id/etPhoneNum"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:background="@null"
+            android:digits="0123456789"
+            android:maxLength="11"
+            android:hint="@string/input_phone_num"
+            android:inputType="phone"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:textSize="@dimen/TextSize_14" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/menu_height_40"
+            android:layout_weight="2"
+            android:background="@drawable/register_activity_input"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="25dp"
+                android:layout_marginStart="25dp"
+                android:gravity="center"
+                android:text="@string/verification_code"
+                android:textColor="@color/colorText_gray_2"
+                android:textSize="@dimen/TextSize_14" />
+
+            <EditText
+                android:text="1234"
+                android:id="@+id/etCode"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:background="@null"
+                android:inputType="numberSigned"
+                android:digits="1234567890"
+                android:gravity="left|center_vertical"
+                android:hint="@string/input_verification_code"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:textSize="@dimen/TextSize_14" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvGetCode"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/menu_height_40"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_weight="1"
+            android:background="@drawable/register_activity_input"
+            android:gravity="center"
+            android:maxLines="1"
+            android:paddingBottom="3dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:paddingTop="3dp"
+            android:text="@string/get_verification_code"
+            android:textColor="@color/colorText_gray_2"
+            android:textSize="@dimen/TextSize_13" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btStart"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/menu_height_40"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/register_activity_login2"
+        android:text="@string/bt_start"
+        android:textColor="@color/colorText_white" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:checked="true"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="@string/please_agree"
+            android:textColor="@color/colorText_gray"
+            android:textSize="@dimen/TextSize_12" />
+
+        <TextView
+            android:id="@+id/user_agreement_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:maxLines="1"
+            android:gravity="center_vertical"
+            android:text="@string/please_agree1"
+            android:textColor="@color/colorText_red"
+            android:textSize="@dimen/TextSize_12"/>
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

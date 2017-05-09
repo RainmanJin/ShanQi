@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent"
+    android:background="@color/background_white"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_style" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorLine" />
+
+
+    <ImageView
+        android:layout_width="161dp"
+        android:layout_height="140dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="14dp"
+        android:src="@mipmap/start_logo" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="当前版本:1.1.1"
+        android:textColor="@color/colorText_gray_2"
+        android:textSize="@dimen/TextSize_14"
+        android:id="@+id/current_version" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="骑行原来可以这么简单"
+        android:textColor="@color/colorText_gray_2"
+        android:textSize="@dimen/TextSize_14" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="骑行原来可以这么简单骑行原来可以这么简单骑行原来可以这么简单骑行原来可以这么简单骑行原来可以这么简单骑行原来可以这么简单骑行原来可以这么简单骑行原来可以这么简单"
+        android:textColor="@color/colorText_gray_2"
+        android:textSize="@dimen/TextSize_14" />
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="80dp"
+        android:onClick="myClick"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:gravity="center"
+            android:text="新浪微博"
+            android:textColor="@color/colorText_black"
+            android:textSize="@dimen/TextSize_16" />
+
+        <TextView
+            android:id="@+id/tvDistance"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:text="@string/_0_0"
+            android:textColor="@color/colorText_gray"
+            android:textSize="@dimen/TextSize_14"
+            android:visibility="invisible" />
+
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="18dp"
+            android:layout_gravity="center"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:src="@mipmap/right" />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorLine" />
+
+    <LinearLayout
+        android:id="@+id/layoutWallet"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:gravity="center"
+            android:text="微信公众号"
+            android:textColor="@color/colorText_black"
+            android:textSize="@dimen/TextSize_16" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:text="flash-bike"
+            android:textColor="@color/colorText_gray"
+            android:textSize="@dimen/TextSize_14" />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorLine" />
+</LinearLayout>

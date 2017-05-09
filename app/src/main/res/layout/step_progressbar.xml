@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutStep"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:baselineAligned="false"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ivStep1"
+            android:layout_width="@dimen/circle_progress_bar_size"
+            android:layout_height="@dimen/circle_progress_bar_size"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:src="@mipmap/a5_step2" />
+
+        <View
+            android:id="@+id/viewStep1"
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@color/colorLine" />
+
+        <ImageView
+            android:id="@+id/ivStep2"
+            android:layout_width="@dimen/circle_progress_bar_size"
+            android:layout_height="@dimen/circle_progress_bar_size"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/a5_step3" />
+
+        <View
+            android:id="@+id/viewStep2"
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@color/colorLine" />
+
+        <ImageView
+            android:id="@+id/ivStep3"
+            android:layout_width="@dimen/circle_progress_bar_size"
+            android:layout_height="@dimen/circle_progress_bar_size"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/a5_step1" />
+
+        <View
+            android:id="@+id/viewStep3"
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@color/colorLine" />
+
+        <ImageView
+            android:id="@+id/ivStep4"
+            android:layout_width="@dimen/circle_progress_bar_size"
+            android:layout_height="@dimen/circle_progress_bar_size"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="30dp"
+            android:layout_marginRight="30dp"
+            android:src="@mipmap/a5_step1"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/step_progress_01"
+            android:textColor="@color/colorText_gray"
+            android:textSize="@dimen/TextSize_14" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/step_progress_02"
+            android:textColor="@color/colorText_gray"
+            android:textSize="@dimen/TextSize_14" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/step_progress_03"
+            android:textColor="@color/colorText_gray"
+            android:textSize="@dimen/TextSize_14" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/step_progress_04"
+            android:textColor="@color/colorText_gray"
+            android:textSize="@dimen/TextSize_14" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

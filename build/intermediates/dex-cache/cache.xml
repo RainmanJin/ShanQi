@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\d34cf3bee7d6a7c9e118c7c3de5ac89cc2732820\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_9e1d7cd838eba9a980447eabaada9d9f70dc84b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\4a6981a1cecf09e5af296b6c58ed79cd66d2e47f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_88c3f3a2b8a604204652153aa128004afcc9d372.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workSpace\ShanQi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4b8d5c17b093149c00a2dda21578cc6b7fee4402\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\ac93df51564e34e13df70905ec4be2d40df24f2f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1ac5296938a203a8407eb6157ba08a89476ba1ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\8cdb320e2040b422fa21b076a7782bf5be2beb81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_6e2ebf654b867212de63ad480caedd3a457e4080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.amap.api\location\3.3.0\299ccce875c1bbd5eb2802923ae89946e22b7ee6\location-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="299ccce875c1bbd5eb2802923ae89946e22b7ee6">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\location-3.3.0_0e666a958d8380e927d9060870f76e3a95efa4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\9d572abc56def435904bcd3a11fc603995ac498a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_5196dd7982ca383568024cef164e37ebcc33019b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_145a61d3883a02c648028b55c3daa7cce586ce5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workSpace\ShanQi\app\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cf8fe9735729561c334c4a33803c332d32de888">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_cd2ece9fe6cc1dbe1013c7a3069f88c217e8035d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\4df711d85f2febb78859c06653e01c0aedd39dd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_d089dfcad50930821a1d9bc822dbf73fef9362e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\9d572abc56def435904bcd3a11fc603995ac498a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4185e6aa64e899daa57efde15cdec9ef3dca9b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workSpace\ShanQi\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cf8fe9735729561c334c4a33803c332d32de888">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\zxing_cd2ece9fe6cc1dbe1013c7a3069f88c217e8035d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\2a50c1c58a2f8bb58feed55dc5e79373727393b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_30b3504e558cbc64dfaccfb7135ce5a016de8e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\ac93df51564e34e13df70905ec4be2d40df24f2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_c34ec4dbcafed9fab62e4119891304f02b216116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_e05403d1b46cdc02c19d0c134f4ad04b65cf4da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workSpace\ShanQi\gallery\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1af1f71e769e0145111a0d4c0b88f55ec29aaa0d">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_d84d5eb130864b61a6e30989ce7d0a2deca773e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\de55cfa81b4781576d2cad51cfd70ec25c71da11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06bc5c7587778bad6ff15c789c93e86bf621d58b">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_979a4afc6258faca0345ab354404632f0519b83c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\glide-3.7.0_025dc610cda8fd5c1240f3e54f660c0633d831d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_f58c8c4d1dfbde6536694dd514a7d34c4d8921dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\20a9090cca35689866aac9b5801912f543516c6d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_69c5f28a106021ab2b8f8505a56530fac7931488.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\9382ce2029b7451e95dbbafb715b50f14d186b6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_ae8dd40af5f7d41544889658b01105edfd6d0352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\20a9090cca35689866aac9b5801912f543516c6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_c4ac22de4472f974cdfad120f42547101446aee5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workSpace\ShanQi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8d0786561ec6f43a9b1bb27f18b54dd114a99f8">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0f57e86e1f4e2c25dd237d46de31a6874c3201ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\668155b610f99d6fb6fedb095cf5f30f47e70190\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a91e4858ef6dd2ecd39167f8e5f687c70213bc51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\21ca0b4e57af1131b09316104684c799711e6064\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_6b3805ddaea86c5e67c4f60612fc656bc3f7a8db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.amap.api\location\3.4.0\fa2675ac2111742d045390a97dd39ea48d957b87\location-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa2675ac2111742d045390a97dd39ea48d957b87">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\transforms\dex\debug\folders\1000\10\location-3.4.0_ead0e34165fd049ea676a8cb6f6e4ff16dfead0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workSpace\ShanQi\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\libammsdk_1303b498f14ad40e01c46948f8ef5e1e30494829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.amap.api\search\5.0.0\315a916b8186d7c5496a81cf683455c558196a1d\search-5.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="315a916b8186d7c5496a81cf683455c558196a1d">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\search-5.0.0_02071e03430fb349b37b5bceb5054e1e01323555.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workSpace\ShanQi\app\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_1303b498f14ad40e01c46948f8ef5e1e30494829\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\10107d4a591e08c78c8897e340cda933f6c5bc36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_cade2d5c731e999d4eb9f43c332cee33766eb57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_e2842d101266a22978c1641aff5842b5bf5ef527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\cd03b569226ea8995552c4c387f7fa13819bc048\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_fa76bbbc8a066c1b0207bc9e070adb3fc531b332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\1bcbea93a679f320d8bc34147b9019a8be1aadf4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_4f4054b8cbdb824c20a6bebd92cb0d6a668451ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\63ccab3231712f21e4b75cbf6492605f471d4932\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b829a8cf982cfa32ab9338f0062f7f76828e17ad">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_c4f498c9f540d752e6ccdeca6a7569f6ee15f066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\4df711d85f2febb78859c06653e01c0aedd39dd7\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_371c445611b270b5dece9340ad8ce2708daff64e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\945965566ed508ac46fc1ae91a754c49ffb89d28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="737d7bbf8e6914c446029ca99b725ce7047e56ca">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_c118f6e80725f54e115b2c7029e1a6aecdaa9927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.android\build-cache\668155b610f99d6fb6fedb095cf5f30f47e70190\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\classes_3510f3f7af21e89560220d8a009eaa7203039f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.amap.api\3dmap\5.0.0\9c48c9bc4db7dafcd3de4a0e28e31acd2c86d01e\3dmap-5.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c48c9bc4db7dafcd3de4a0e28e31acd2c86d01e">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\3dmap-5.0.0_755ff8f0cee82cbf02aee46ab703b418a99b20c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\okio-1.9.0_ab8e74287250f0459e3ed59fbee9aa473146f5c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PVer\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\workSpace\ShanQi\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_fd53fed7c61eda51154be9f9734d98b9374299af.jar" />
+    </item>
+
+</items>

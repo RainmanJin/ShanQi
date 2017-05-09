@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/ivClose"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:src="@mipmap/close" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:text="联系我们"
+        android:textColor="@color/colorText3"
+        android:textSize="@dimen/TextSize_14" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivClose"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@mipmap/start_logo" />
+
+        <TextView
+            android:id="@+id/tvCallNum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="@string/dialog_message_02"
+            android:textColor="@color/colorText3"
+            android:textSize="@dimen/TextSize_12" />
+
+        <Button
+            android:id="@+id/btCall"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/menu_height_40"
+            android:layout_marginBottom="14dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/register_activity_login"
+            android:text="@string/call"
+            android:textColor="@color/colorText_white"
+            android:textSize="@dimen/TextSize_16" />
+    </LinearLayout>
+
+</RelativeLayout>

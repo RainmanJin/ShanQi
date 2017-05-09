@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="external_files" path="."/>
+    <!--<external-path path="Android/data/com.hztuen.shanqi/" name="files_root" />-->
+    <!--<external-path path="." name="external_storage_root" />-->
+    <!--<cache-path path="" name="com.hztuen.shanqi" />-->
+</paths>

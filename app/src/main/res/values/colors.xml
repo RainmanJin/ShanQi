@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <!--设置像是CheckBox的颜色 -->
+    <color name="colorAccent">#FF4081</color>
+    <color name="statusBarColor">#FF4081</color>
+
+    <!--标题栏-->
+    <!--标题栏颜色-->
+    <color name="colorHead">#ffffff</color>
+    <color name="background">#ffffff</color>
+    <color name="background_red">#D70110</color>
+    <color name="background_white">#ffffff</color>
+    <!--字体颜色-->
+
+    <color name="colorText_red">#D70110</color>
+    <color name="colorText_gray">#999999</color>
+    <color name="colorText_white">#FFFFFF</color>
+    <color name="colorText_black">#333333</color>
+
+    <color name="colorText_gray_2">#666666</color>
+    <color name="colorText_gray_3">#BCBCBC</color>
+
+    <color name="colorText3">#A1A1A1</color>
+    <color name="colorText4">#6B6B6B</color>
+    <color name="colorLine">#F4F4F4</color>
+    <color name="colorText8">#4A4A4A</color>
+
+
+
+
+</resources>

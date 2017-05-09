@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--<include layout="@layout/head_style" />-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@color/background_red">
+
+        <LinearLayout
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:onClick="back"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="13dp"
+                android:layout_height="21dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="15dp"
+                android:layout_marginStart="15dp"
+                android:src="@mipmap/back_nor"/>
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="21dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/logo_head02"/>
+
+
+    </RelativeLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background_white"
+        android:scrollbars="none">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@mipmap/login_bg"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <com.hztuen.shanqi.widget.RoundImageView
+                    android:layout_width="68dp"
+                    android:layout_height="68dp"
+                    android:src="@mipmap/a3_pic"/>
+
+                <Button
+                    android:id="@+id/btLogin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="26dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/register_activity_login"
+                    android:onClick="loginClick"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="登录/注册"
+                    android:textColor="@color/colorText_white"
+                    android:textSize="@dimen/TextSize_12"/>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="预约用车"
+                android:textColor="@color/colorText_black"
+                android:textSize="@dimen/TextSize_16"
+
+
+                />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_marginLeft="14dp"
+
+                android:layout_marginRight="14dp"
+                android:layout_marginTop="13dp"
+                android:src="@mipmap/login01"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="14dp"
+                android:layout_marginRight="14dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:text="在地图页面选择闪骑电单车，点击“预约用车”立即完成预约即可根据地图线路找到车哦。"
+                android:textColor="@color/colorText_black"
+
+                android:textSize="@dimen/TextSize_13"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginLeft="14dp"
+                android:layout_marginRight="14dp"
+                android:layout_marginTop="21dp"
+                android:background="@drawable/dotted_line"
+                android:layerType="software"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="扫码开锁"
+                android:textColor="@color/colorText_black"
+                android:textSize="@dimen/TextSize_16"
+
+
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_marginLeft="14dp"
+                android:layout_marginRight="14dp"
+                android:layout_marginTop="13dp"
+                android:scaleType="matrix"
+                android:src="@mipmap/login02"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="30dp"
+                android:layout_marginLeft="14dp"
+                android:layout_marginRight="14dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:text="在地图页面选择闪骑电单车，点击“预约用车”立即完成预约即可根据地图线路找到车哦。"
+                android:textColor="@color/colorText_black"
+                android:textSize="@dimen/TextSize_13"/>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

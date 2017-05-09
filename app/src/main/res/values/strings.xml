@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">闪骑</string>
+
+    <!--客服界面 选择问题-->
+    <string name="problem_1">无法开锁</string>
+    <string name="problem_2">电池故障</string>
+    <string name="problem_3">车辆故障</string>
+    <string name="problem_4">举报违停</string>
+    <string name="problem_5">联系客服</string>
+    <string name="problem_6">其他</string>
+
+
+    <string name="payment_success">支付成功</string>
+    <string name="payment_failure">支付失败</string>
+
+
+    <!--EditText判断请先输入内容-->
+    <string name="first_input_01">请先同意条款</string>
+    <string name="first_input_02">请先输入正确手机号</string>
+    <string name="first_input_03">请先输入验证码</string>
+    <string name="first_input_04">请先输入姓名</string>
+    <string name="first_input_05">请先输入正确的身份证号码</string>
+    <string name="first_input_07">请先选择问题类型</string>
+    <string name="first_input_bike_num">请先输入单车编号</string>
+    <string name="first_input_question">请描述您的问题</string>
+    <string name="first_chose_pic">请选择图片上传</string>
+    <!--EditText输入内容-->
+
+    <string name="input_06">请输入单车编号</string>
+    <string name="input_08">请描述问题和意见</string>
+    <string name="input_money">请输入所需金额</string>
+    <string name="input_phone_num">请输入手机号</string>
+    <string name="input_verification_code">请输入验证码</string>
+    <string name="input_real_name">请输入您的姓名</string>
+    <string name="input_real_id">请输入真实身份证号码</string>
+
+    <!--注册进度-->
+    <string name="step_progress_01">手机验证</string>
+    <string name="step_progress_02">押金充值</string>
+    <string name="step_progress_03">实名认证</string>
+    <string name="step_progress_04">注册完成</string>
+
+
+    <!--欢迎界面网址-->
+    <string name="website">www.sdchuxing.com</string>
+
+
+    <!--充值押金-->
+    <string name="¥_10">10元</string>
+    <string name="¥_20">20元</string>
+    <string name="¥_30">30元</string>
+
+
+    <!--注册登录界面-->
+    <string name="_01">01</string>
+    <string name="_02">02</string>
+    <string name="_03">03</string>
+
+
+    <!--支付-->
+    <string name="wechat_pay">微信支付</string>
+    <string name="ali_pay">支付宝支付</string>
+
+    <!--标题栏字-->
+
+    <string name="my_wallet">我的钱包</string><!--个人中心-->
+    <string name="my_trip">我的行程</string>
+    <string name="my_trace">我的轨迹</string>
+    <string name="user_guide">用户指南</string>
+    <string name="my_news">我的消息</string>
+    <string name="set_up">设置</string>
+
+    <string name="detailed">明细</string>
+    <string name="problem_feedback">问题反馈</string>
+    <string name="sweep_code_lock">扫码开锁</string>
+    <string name="mobile_phone_verification">手机验证</string>
+    <string name="prepaid_deposit">充值押金</string>
+    <string name="picture_view">图片查看</string>
+    <!--设置界面-->
+    <string name="feed_back">意见反馈</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="give_good">给闪骑好评</string>
+    <string name="contact_us">联系我们</string>
+    <string name="about_us">关于我们</string>
+    <string name="sign_out">退 出</string>
+
+    <!--手机验证界面需要勾选的条款-->
+    <string name="please_agree">点击登录即认同于</string>
+    <string name="please_agree1">《同意认证电动车使用条款》</string>
+
+
+    <!--押金充值界面-->
+    <string name="recharge_01">押金(可退)</string>
+    <string name="recharge_02">押金可原路退还</string>
+    <string name="recharge_03">押金不可缴纳租车费用，需单独缴纳</string>
+
+    <!--TextView 默认值-->
+    <string name="_0_0">0.0</string>
+
+
+    <string name="refund_explain">\n1. 押金为使用 闪骑共享单车的保证金。押金可随时申请提现，原路退还。\n \n 2. 目前充值押金有两种方式：微信支付或支付宝支付。\n  \n3. 为保证押金缴纳及退还的流畅性，闪骑共享单车将押金与充值余额分开。\n\n</string>
+    <string name="how_to_register">\n1、注册后在认证步骤中提交信息，或点击［三］－［个人头像］进入个人信息页，选择［登录］。其中：\n\n 2、个人认证：注册后，在认证步骤中，输入姓名及中华人民共和国身份证号码并提交； 师生用户提交姓名、学生证或教职工号及证件正面照。\n\n 3、人工审核申请材料包括：您的姓名，证件号码及国籍（确保填写的信息与证件信息一致），并上传两张照片：本人手持有效证件（台胞证，护照，港澳通行证）的正面合影照和有效证件正面照。</string>
+    <string name="how_to_open">\n1、车辆支持预约，预约后10分钟开始计费，为了节约资源，请慎重预约 \n\n2、扫码后，车辆会自动解锁，如遇到解锁问题，请联系客服\n</string>
+    <string name="my_money">\n1. 押金为使用 闪骑共享单车的保证金。押金可随时申请提现，原路退还。\n\n 2. 目前充值押金有两种方式：微信支付或支付宝支付。 \n\n3. 为保证押金缴纳及退还的流畅性，闪骑共享单车将押金与充值余额分开。 \n\n温馨提醒：\n 余额用于支付用车订单，永不过期。 余额可申请退还（参与充送金额等活动的充值金额可部分退款）。余额提现需求，可与客服人员联系。\n\n 2、扫码后，车辆会自动解锁，如遇到解锁问题，请联系客服</string>
+    <string name="return_car">\n1、车辆使用完成后，点击APP还车按钮，支付成功后，租车服务完成\n\n2、还车后请务必保证车辆已锁定，如遇到无法锁定问题，请联系客服\n</string>
+    <string name="dialog_message_01">您已成功提取押金，押金预计在2-7个工作日到账，请注意查收！</string>
+    <string name="phone_num">手机号</string>
+
+    <string name="verification_code">验证码</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unknown">发送返回</string>
+    <string name="determine">确 定</string>
+    <string name="message_content">消息内容</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="refund_instructions">退款说明</string>
+
+    <string name="real_name_authentication">实名认证</string>
+
+    <string name="submitted">提 交</string>
+    <string name="instructions">电动单车使用说明</string>
+    <string name="deposit">押金</string>
+    <string name="shu">|</string>
+    <string name="extract_deposit">提取押金</string>
+    <string name="authentication">认 证</string>
+    <string name="id_number">身份证号</string>
+    <string name="payment_expenses">支付费用(元)</string>
+    <string name="cumulative_cycling">累计骑行(公里)</string>
+    <string name="saving_carbon_emissions">节约碳排量(千克)</string>
+    <string name="fare_balance">车费余额(元)</string>
+    <string name="other_amount">其他金额</string>
+    <string name="cost_details">费用详情</string>
+    <string name="discount">优惠</string>
+    <string name="current_cost">当前费用（元）</string>
+    <string name="riding_time">骑行时间</string>
+    <string name="travel_details">行程详情</string>
+    <string name="temporary_car">临时还车</string>
+    <string name="minute">分钟</string>
+    <string name="element">元</string>
+    <string name="running">骑行中</string>
+
+    <string name="distance">"总距离："</string>
+    <string name="stop_time">"等   待："</string>
+    <string name="order_payment">订单支付</string>
+    <string name="pay_immediately">立即支付</string>
+    <string name="get_verification_code">获取验证码</string>
+    <string name="bt_start">开 始</string>
+    <string name="￥">￥</string>
+    <string name="run_time">骑行时长(分钟)</string>
+    <string name="run_distance">剩余可行驶里程(公里)</string>
+    <string name="return_my_car">还 车</string>
+    <string name="chose_pic">请添加至少一张照片</string>
+    <string name="dialog_message_02">400-000-0000</string>
+    <string name="call">拨打</string>
+
+
+
+
+    //网络访问提示语句
+    <string name="http_error">网络出现异常请稍后再试</string>
+    <string name="credit_is_running_low">您余额不足,是否前往充值</string>
+    <string name="You_have_an_order_not_paid">您有订单未支付</string>
+
+
+</resources>
